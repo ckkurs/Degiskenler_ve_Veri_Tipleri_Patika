@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.exe
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.deps.json
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.dll
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\bin\Debug\net5.0\degiskenler_ve_veritipleri.pdb
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.dll
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\refint\degiskenler_ve_veritipleri.dll
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.pdb
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\degiskenler_ve_veritipleri.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\degiskenler_ve_veritipleri\obj\Debug\net5.0\ref\degiskenler_ve_veritipleri.dll
